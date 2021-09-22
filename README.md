@@ -65,7 +65,7 @@
  
 
 
-<img src="https://i.imgur.com/3yvtrZq.png" alt="Site created with Notepad"  style="max-width: 100%;/>
+<img src="https://i.imgur.com/3yvtrZq.png" alt="Site created with Notepad"/>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
