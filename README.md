@@ -79,13 +79,6 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-<path id="path">
-	<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-</path>
-<text font-size="26" font-family="Montserrat" fill='hsla(36, 95%, 85%, 1)'>
-	<textPath xlink:href="#path">I'm An Animated Typing Example && I'm All SVG.
-   </textPath>
-</text>
-  
 </div>
+<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DF751&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!)](https://git.io/typing-svg)
