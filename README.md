@@ -14,9 +14,14 @@
 <img src="python powered.png" alt="Python Powered" align="center">
 <span>&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
-<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
+
 </div>
 <br />
+<hr>
+<div align="center">
+Send me an eletronic mail (e-mail):
+<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
+</div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
