@@ -17,7 +17,7 @@
 </div>
 <br />
 
-<div>
+<div align="center">
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 </div>
 <br />
