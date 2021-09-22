@@ -15,11 +15,13 @@
 <span>&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 
+
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 </div>
 <br />
 <hr>
 <div align="center">
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 <br />
 <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
 </div>
