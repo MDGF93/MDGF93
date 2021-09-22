@@ -42,14 +42,13 @@
 </td>
 
 <td align="center">
-<img height="100" alt="Book" src="https://i.imgur.com/koa8xj2.gif"> 
 <strong>Contact me</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Contact me" src="https://i.imgur.com/koa8xj2.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
