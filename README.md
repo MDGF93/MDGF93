@@ -9,7 +9,7 @@
 <hr>
 <p>Stuff I enjoy</p>
 <div align="center">
-<img src="python powered.png" alt="Python Powered" align="center"> height="30" />
+<img src="python powered.png" alt="Python Powered" align="center" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="python powered.png" alt="Python Powered" align="center">
