@@ -59,19 +59,10 @@
 </tr>
 </table>
 
-<!-- Footer -->
-
-<div align="center">
-
-<text x="50%" y="50%" fill="transparent" text-anchore="middle">
-  Thank you for visiting my webpage!
-</text>
 
 <br />
  
-![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
 
-<br />
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -86,5 +77,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3DF751&size=25&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!;See+you+soon!"></a>
 </p>
+<br />
 
+![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
 
