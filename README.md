@@ -78,6 +78,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3DF751&size=25&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!;See+you+soon!"></a>
 </p>
 <br />
-
+<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
+</p>
 
