@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
+<text x="50%" y="50%" fill="transparent" text-anchore="middle">
+  Thank you for visiting my webpage!
+</text>
 ![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
 
 
