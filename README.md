@@ -8,7 +8,7 @@
 
 <hr>
 <div align="center">
-<p>Here are some of my badges:</p>
+<p>BADGES TEST:</p>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;</span>  
 <img src="python powered.png" alt="Python Powered" align="center">
