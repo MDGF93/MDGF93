@@ -82,8 +82,3 @@
 <p align="center">
   <a href="https://github.com/MarcosDGF"><img src="https://profile-counter.glitch.me/marcosdgf/count.svg"></a>
 </p>
-
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
-</p>
-
