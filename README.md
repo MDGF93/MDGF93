@@ -59,6 +59,7 @@
 </tr>
 </table>
 
+</div>
 
 <br />
  
@@ -79,5 +80,4 @@
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
-</div>
 
