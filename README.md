@@ -16,14 +16,16 @@
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 
 
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+<hr>
 
+[Send me an eletronic mail (e-mail)](mailto:marcosdgfilho@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 </div>
 <br />
-<hr>
+
 <div align="center">
 <br />
-<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
+<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail">
+  
 </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
