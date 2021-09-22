@@ -66,6 +66,9 @@
 <text x="50%" y="50%" fill="transparent" text-anchore="middle">
   Thank you for visiting my webpage!
 </text>
+
+<br />
+ 
 ![Visitor Count](https://profile-counter.glitch.me/marcosdgf/count.svg)
 
 
