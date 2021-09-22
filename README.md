@@ -4,8 +4,6 @@
   <br />
   <br />
   <img height="50" alt="Hi, I'm Marcos Filho and I like data" src="https://raw.githubusercontent.com/MDGF93/MDGF93/main/meu_svg.svg"/>
-  <br />
-  <br />
 </div>
 
 
