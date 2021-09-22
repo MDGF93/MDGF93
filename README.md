@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://i.imgur.com/dUsfXjA.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
   <img height="50" alt="Hi, I'm Marcos Filho and I like data" src="https://raw.githubusercontent.com/MDGF93/MDGF93/main/meu_svg.svg"/>
 </div>
 
