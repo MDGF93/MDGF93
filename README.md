@@ -12,7 +12,7 @@
 <hr>
 
 <div align="center">
-<p>Write something nice in my guest book:</p>
+<p>Check out my cool badges:</p>
 <a href="https://github.com/fnky/fnky/issues"><img src="python powered.png" alt="Python Powered" align="center"></a>
 </div>
 <br />
@@ -22,8 +22,6 @@
 <p align="center">
   <a href="https://github.com/MarcosDGF"><img src="https://readme-typing-svg.herokuapp.com?color=3DF751&size=25&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!;See+you+soon!"></a>
 </p>
-<br />
-
 <p align="center">
   <a href="https://github.com/MarcosDGF"><img src="https://profile-counter.glitch.me/marcosdgf/count.svg"></a>
 </p>
