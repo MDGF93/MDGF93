@@ -4,8 +4,8 @@
 
 ## I'm a Data Science and Artificial Intelligence student at [UFPB!](https://www.ufpb.br/)
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🐍 Always working with Python
+- 🎓 Will graduate by 2024 (<i>hopefully</i>) 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
