@@ -14,8 +14,7 @@
 <img src="python powered.png" alt="Python Powered" align="center">
 <span>&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
-<br />
-<img src='https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
+<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
 </div>
 <br />
 
