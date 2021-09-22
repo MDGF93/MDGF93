@@ -7,11 +7,13 @@
 
 
 <hr>
-
-<div align="center">
 <p>Stuff I enjoy</p>
-<img src="python powered.png" alt="Python Powered" align="center"></a>
-
+<div align="center">
+<img src="python powered.png" alt="Python Powered" align="center"> height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="python powered.png" alt="Python Powered" align="center">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 </div>
 <br />
