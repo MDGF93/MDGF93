@@ -89,4 +89,4 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DF751&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DF751&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting+Me!!)](https://git.io/typing-svg)
