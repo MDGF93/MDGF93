@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-<p>Check out my cool badges:</p>
+<p>Stuff I enjoy</p>
 <img src="python powered.png" alt="Python Powered" align="center"></a>
 </div>
 <br />
