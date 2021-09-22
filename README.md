@@ -17,6 +17,11 @@
 </div>
 <br />
 
+<div align="center">
+<p>Check out my cool badges:</p>
+<a href="https://github.com/fnky/fnky/issues"><img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
+</div>
+<br />
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
