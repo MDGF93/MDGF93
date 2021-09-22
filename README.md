@@ -16,9 +16,6 @@
 <a href="https://github.com/fnky/fnky/issues"><img src="python powered.png" alt="Python Powered" align="center"></a>
 </div>
 <br />
-
-<div align="center">
-<p>Check out my cool badges:</p>
 <a href="https://github.com/fnky/fnky/issues"><img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 </div>
 <br />
