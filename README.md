@@ -1,6 +1,6 @@
 ### Hey, welcome to my GitHub. I'm Marcos Filho 👋
 
-[![Dev.to](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev.to/mdgf93)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mdgf93)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
