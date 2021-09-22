@@ -20,10 +20,8 @@
 
 [Send me an eletronic mail (e-mail)](mailto:marcosdgfilho@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 </div>
-<br />
 
 <div align="center">
-<br />
 <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail">
   
 </div>
