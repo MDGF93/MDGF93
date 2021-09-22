@@ -19,7 +19,7 @@
 <br />
 <hr>
 <div align="center">
-Send me an eletronic mail (e-mail):
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 <br />
 <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
 </div>
