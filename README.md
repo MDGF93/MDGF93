@@ -20,6 +20,7 @@
 <hr>
 <div align="center">
 Send me an eletronic mail (e-mail):
+<br />
 <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail" href="mailto:marcosdgfilho@gmail.com">
 </div>
 
