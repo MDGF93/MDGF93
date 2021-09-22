@@ -2,7 +2,7 @@
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mdgf93)
 
-## I'm a Data Science and Artificial Intelligence student at [UFPB!][https://www.ufpb.br/]
+## I'm a Data Science and Artificial Intelligence student at [UFPB!](https://www.ufpb.br/)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
