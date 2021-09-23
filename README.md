@@ -5,7 +5,10 @@
 </div>
 
  <img height="50" alt="Hi, I'm Marcos Filho and I like data" src="https://raw.githubusercontent.com/MDGF93/MDGF93/main/meu_svg.svg"/>
-
+ 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 <p>BADGES TEST:</p>
@@ -21,12 +24,6 @@
 
 
 
-[Send me an eletronic mail (e-mail)](mailto:marcosdgfilho@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail">
- </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -35,6 +32,4 @@
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
