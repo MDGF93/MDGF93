@@ -6,7 +6,7 @@
 
 
 # ⚞ _𝔸𝕓𝕠𝕦𝕥 𝕞𝕖_ ⚟
-<img height="100%" width="50%" alt="Hi, I'm Marcos Filho and I like data" src="meu_svg.svg"/>
+<img alt="Hi, I'm Marcos Filho and I like data" src="meu_svg.svg"/>
  
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
 
