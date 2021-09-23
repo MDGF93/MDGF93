@@ -9,7 +9,7 @@
 
 <img alt="Hi, I'm Marcos Filho and I like data" src="svg2.svg"/>
 
-<img alt="Hi, I'm Marcos Filho and I like data" src="svg3.svg"/>
+<img alt="Hi, I'm Marcos Filho and I like data" src="svg2.svg"/>
 
 
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
