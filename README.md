@@ -12,7 +12,7 @@
 <p>BADGES TEST:</p>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;</span>  
-<img src="python powered.png" alt="Python Powered" align="center">
+<img src="https://i.imgur.com/VBMigHL.png" alt="Python v3.9+" align="center">
 <span>&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 
