@@ -27,6 +27,11 @@
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 <span>&nbsp;&nbsp;</span> 
 <img src="https://i.imgur.com/op4DH7U.png" alt="Jupyter Notebook" align="center"></a>
+<span>&nbsp;&nbsp;</span> 
+<img src="PostgreSQL.gif" alt="PostgreSQL" align="center"></a>
+
+
+
 
 <br/>
 
