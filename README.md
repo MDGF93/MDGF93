@@ -31,13 +31,7 @@
 </p>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mdgf93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mdgf93" height="30" width="40" /></a>
-</p>
