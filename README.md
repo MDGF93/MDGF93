@@ -7,7 +7,7 @@
 
 # ⚞ _𝔸𝕓𝕠𝕦𝕥 𝕞𝕖_ ⚟
 
-<img alt="Hi, I'm Marcos Filho and I like data" src="svg2.svg"/>
+<img alt="Hi, I'm Marcos Filho and I like data" src="svg3.svg"/>
 
 <img alt="• I'm a Data Science and Artificial Intelligence Undergrad Student @ Federal University of Paraíba¹" src="svg3.svg"/>
 
