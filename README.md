@@ -9,7 +9,7 @@
 
 <img alt="Hi, I'm Marcos Filho and I like data" src="svg2.svg"/>
 
-<img alt="Hi, I'm Marcos Filho and I like data" src="svg2.svg"/>
+<img alt="• I'm a Data Science and Artificial Intelligence Undergrad Student @ Federal University of Paraíba¹" src="svg3.svg"/>
 
 
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
