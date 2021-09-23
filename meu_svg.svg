@@ -5,9 +5,9 @@
 	
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: #e7e233;
+          color: #ef2b2b;
           font-size: 1.5em;
-	  text-align: center;
+	  text-align: left;
         }
 
         .blink {
@@ -19,7 +19,7 @@
           }
         }
       </style>
-      <strong>Hi, I'm <span class="blink">Marcos Filho</span> and I like dealing with data</strong>
+      <strong>Hi, I'm <span class="blink">Marcos Filho</span> and I like data</strong>
 		</div>
 	</foreignObject>
 </svg>
