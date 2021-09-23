@@ -6,7 +6,7 @@
 
  <img height="50" alt="Hi, I'm Marcos Filho and I like data" src="https://raw.githubusercontent.com/MDGF93/MDGF93/main/meu_svg.svg"/>
  
-# L̶a̶t̶e̶s̶t̶ ̶b̶l̶o̶g̶ ̶p̶o̶s̶t̶s̶
+# <u>Latests blog posts</u>
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello, World](https://dev.to/mdgf93/hello-world-20df)
