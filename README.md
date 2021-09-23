@@ -15,7 +15,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-<p>BADGES TEST:</p>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;</span>  
 <img src="https://i.imgur.com/VBMigHL.png" alt="Python v3.9+" align="center">
