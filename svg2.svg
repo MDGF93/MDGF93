@@ -1,0 +1,25 @@
+<svg  viewBox="0 0 595 35" width="595" height="30" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+	
+        strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
+          color: #ef2b2b;
+          font-size: 1.5em;
+	  text-align: left;
+        }
+
+        .blink {
+          animation: blink-animation 1s steps(5, start) infinite;
+        }
+        @keyframes blink-animation {
+          to {
+            visibility: hidden;
+          }
+        }
+      </style>
+      <strong>Hi, I'm <span class="blink">Marcos Filho</span> and I like data</strong>
+		</div>
+	</foreignObject>
+</svg>
