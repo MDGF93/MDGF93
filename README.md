@@ -28,6 +28,7 @@
 <a href="https://dev.to/mdgf93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mdgf93" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos-dantas-guimarães-filho-009518204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-dantas-guimarães-filho-009518204" height="30" width="40" /></a>
 </p>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marocsdgfilho@gmail.com)](mailto:marocsdgfilho@gmail.com)
 
 
 <div align="center">
