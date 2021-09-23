@@ -7,7 +7,8 @@
 
 # ⚞ _𝔸𝕓𝕠𝕦𝕥 𝕞𝕖_ ⚟
 <img alt="Hi, I'm Marcos Filho and I like data" src="meu_svg.svg"/>
- 
+And I like messing around with webscrapping and data analysis
+
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
 
 <!-- BLOG-POST-LIST:START -->
