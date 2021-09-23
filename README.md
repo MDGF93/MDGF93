@@ -17,7 +17,6 @@
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
 
 
-<hr>
 
 [Send me an eletronic mail (e-mail)](mailto:marcosdgfilho@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 </div>
