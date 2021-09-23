@@ -21,13 +21,10 @@
 </div>
 
 <div align="center">
-<img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail">
-  
-</div>
+  <img src="https://i.imgur.com/koa8xj2.gif" alt="Send me an E-mail">
+ </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/MarcosDGF"><img src="https://readme-typing-svg.herokuapp.com?color=3DF751&size=25&center=true&vCenter=true&height=100&lines=Thank+you+for+visiting!!;See+you+soon!"></a>
-  <br/>
   <a href="https://github.com/MarcosDGF"><img src="https://profile-counter.glitch.me/marcosdgf/count.svg"></a>
 </p>
