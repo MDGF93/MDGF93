@@ -19,32 +19,5 @@
           }
         }
       </style>
-			
-			
-      <strong>• Hi, I'm <span class="blink">aaaaaaaaaaaaaaing!</strong>
-		</div>
-	</foreignObject>
-		<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-	
-        strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: #ef2b2b;
-          font-size: 1.5em;
-	  text-align: left;
-        }
-
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
-      </style>
-      <strong>• Hi, I'm <span class="blink">Marcos Filho</span> and I enjoy dealing with data and also webscrapping!</strong>
-		</div>
 	</foreignObject>
 </svg>
