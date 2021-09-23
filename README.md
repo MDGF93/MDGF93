@@ -14,7 +14,10 @@
 <img src="https://i.imgur.com/VBMigHL.png" alt="Python v3.9+" align="center">
 <span>&nbsp;&nbsp;</span>  
 <img src="vscode banner.png" alt="Microsoft Visual Studio Code" align="center"></a>
-<span>&nbsp;&nbsp;</span>  
+<span>&nbsp;&nbsp;</span> 
+<img src="https://i.imgur.com/op4DH7U.png" alt="Jupyter Notebook" align="center"></a>
+
+
 
 
 
