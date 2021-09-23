@@ -11,6 +11,7 @@
 
 <img alt="• I'm a Data Science and Artificial Intelligence Undergrad Student @ Federal University of Paraíba¹" src="svg3.svg"/>
 
+1. https://www.ufpb.br/
 
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
 
