@@ -7,7 +7,7 @@
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
           color: #ef2b2b;
           font-size: 1.5em;
-	  text-align: left;
+	  text-align: center;
         }
 
         .blink {
