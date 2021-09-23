@@ -31,7 +31,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marocsdgfilho@gmail.com)](mailto:marocsdgfilho@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcos-dantas-guimarães-filho-009518204/)](https://linkedin.com/in/marcos-dantas-guimarães-filho-009518204/)
 
 
 <div align="center">
