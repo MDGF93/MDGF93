@@ -16,6 +16,7 @@
 # ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing about Spring Boot – #1](https://dev.to/mdgf93/writing-about-spring-boot-1-22h1)
 - [Hello, World](https://dev.to/mdgf93/hello-world-20df)
 <!-- BLOG-POST-LIST:END -->
 
