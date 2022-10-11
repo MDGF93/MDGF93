@@ -13,17 +13,6 @@
 
 <p align=right> 1. https://www.ufpb.br/ </p>
 
-# ✉ _𝕃𝕒𝕥𝕖𝕤𝕥 𝕓𝕝𝕠𝕘 𝕡𝕠𝕤𝕥𝕤_
-
-<!-- BLOG-POST-LIST:START -->
-- [Writing about Django — #1](https://dev.to/mdgf93/writing-about-django-1-534n)
-- [Writing about Spring Boot – #1](https://dev.to/mdgf93/writing-about-spring-boot-1-22h1)
-- [Hello, World](https://dev.to/mdgf93/hello-world-20df)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
 # 📞 _ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖!_
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marocsdgfilho@gmail.com)](mailto:marocsdgfilho@gmail.com)
